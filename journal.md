@@ -26,10 +26,12 @@
 ### What I Did
 
 1. This is week two testing.
+2. This is anothr larning curve.
 
 ### To Explore Further
 
-
+- [ ] Github
+- [ ] vs code
 
 ---
 
