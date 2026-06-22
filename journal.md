@@ -19,4 +19,18 @@
 
 ---
 
+## Day 2 — Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+**Phase:** Excel  
+
+### What I Did
+
+1. This is week two testing.
+
+### To Explore Further
+
+
+
+---
+
 > Generated from Qode Clarity. Edit lesson notes in Qode Clarity, then push again.
