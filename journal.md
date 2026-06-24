@@ -26,6 +26,15 @@
 
 - TESTING
 
+### O — Observe the data
+OBSRVEE
+
+### V — Verify your logic
+- VRIFY
+
+### E — Evolve the solution
+- LVOING
+
 ---
 
 > Generated from Qode Clarity. Edit lesson notes in Qode Clarity, then push again.
