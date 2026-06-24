@@ -4,17 +4,18 @@
 
 ---
 
-## Day 1 — Set up your data analyst portfolio
+## Day 1 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
 
-**Phase:** Setup
+**Phase:** Excel
 
 ### What I Did
 
-1. I learnt how to setup github repo and config it and clone my repo
+1. I learnt that rang is dfined as
+2. sum is ***
 
 ### To Explore Further
 
-- [x] github repo setup
+
 
 ---
 
