@@ -8,9 +8,13 @@
 
 **Phase:** Setup
 
+### What I Did
+
+1. I learnt how to setup github repo and config it and clone my repo
+
 ### To Explore Further
 
-- [ ] github repo setup
+- [x] github repo setup
 
 ---
 
