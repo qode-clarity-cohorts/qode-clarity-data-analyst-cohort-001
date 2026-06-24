@@ -50,31 +50,6 @@ dtyuikjhgf
 
 
 ---
-<!-- framework:solve -->
-
-## Learn: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-06-24 | **Method:** SOLVE
-
-> **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
-
-### S — Split the problem
-- TEEStingtesting
-
-- TEEST
-
-- TESTINGdfghjkuytfghn
-
-### O — Observe the data
-OBSRVEE
-
-### V — Verify your logic
-- VRIFY
-
-### E — Evolve the solution
-- LVOING
-
-
----
 <!-- framework:five-how -->
 
 ## Learn: Workbook setup, tables, sorting, filtering, and named ranges
@@ -125,6 +100,31 @@ dtyuikjhgf
 - ghjklkjhgjkl
 
 - ghjkljhkl
+
+
+---
+<!-- framework:solve -->
+
+## Learn: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-06-24 | **Method:** SOLVE
+
+> **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
+
+### S — Split the problem
+- TEEStingtesting
+
+- dfghjkfdghjjhgTEEST
+
+- TESTINGdfghjkuytfghn
+
+### O — Observe the data
+OBSRVEE
+
+### V — Verify your logic
+- VRIFY
+
+### E — Evolve the solution
+- LVOING
 
 ---
 
