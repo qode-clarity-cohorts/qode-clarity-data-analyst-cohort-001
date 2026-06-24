@@ -4,14 +4,9 @@
 
 ---
 
-## Day 1 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
+## Day 1 — Set up your data analyst portfolio
 
-**Phase:** Excel
-
-### What I Did
-
-1. I learnt that rang is dfined as
-2. sum is ***
+**Phase:** Setup
 
 ### To Explore Further
 
