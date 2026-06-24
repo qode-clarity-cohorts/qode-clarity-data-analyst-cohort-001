@@ -85,9 +85,9 @@ OBSRVEE
 ### Write it — code the solution
 - 5-howdfghjkjhgfvbnm,jhg
 
-- 6-how
+- 6-howdfghjkjhg
 
-- 3-how
+- 3-howhjtrfghj
 
 ### Explain it — pseudocode
 nor
@@ -105,6 +105,10 @@ nor
 dtyuikjhgf
 
 ### Try it — Scenario 1
+> Finance has an Orders spreadsheet and wants to know: "What's the total sales value for the Electronics category only?"
+> 
+> Write a SUMIF formula that sums `order_value` where `product_category` equals "Electronics".
+
 - fghjk,mjhg
 
 - dfgujklhjgt
@@ -112,6 +116,10 @@ dtyuikjhgf
 - dfghjkytrf
 
 ### Try it — Scenario 2
+> Your manager needs customer cities added to the orders sheet: "Can you pull in each customer's city from the Customers tab, matched by customer_id?"
+> 
+> Write an XLOOKUP (or VLOOKUP) formula that looks up customer_id in the Customers sheet and returns the city column.
+
 - gfhjkljhgfhjklkjh
 
 - ghjklkjhgjkl
