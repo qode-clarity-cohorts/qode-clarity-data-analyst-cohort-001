@@ -1,37 +1,32 @@
-# Data Analyst Learning Journal
+# Data Analyst Job-Ready Learning Journal
 
-> Last updated: 22 June 2026
+> Last updated: 24 June 2026
 
 ---
-## Day 1 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
 
-**Phase:** Excel  
+## Day 1 - Set up your data analyst portfolio
+
+**Phase:** Setup
+
+### To Explore Further
+
+- [ ] github repo setup
+
+---
+
+## Day 2 - Learn: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
 
 ### What I Did
 
-1. I learnt a create deal.
-2. This is me working today.
-3. Also working working working.
+1. I learnt a create deal
+2. This is me working today
+3. Also working working working
 
 ### To Explore Further
 
 
-
----
-
-## Day 2 — Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
-
-**Phase:** Excel  
-
-### What I Did
-
-1. This is week two testing.
-2. This is anothr larning curve.
-
-### To Explore Further
-
-- [ ] Github
-- [ ] vs code
 
 ---
 
