@@ -35,3 +35,12 @@ This repo tracks my Qode Clarity learning evidence.
 - [Learning journal](journal.md)
 
 <!-- qode-clarity:data-analyst-job-ready:journal-link:end -->
+
+<!-- qode-clarity:azure-data-engineer:journal-link:start -->
+## Qode Clarity — azure-data-engineer
+
+This repo tracks my Qode Clarity learning evidence.
+
+- [Learning journal](journals/azure-data-engineer.md)
+
+<!-- qode-clarity:azure-data-engineer:journal-link:end -->
