@@ -1,17 +1,17 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 25 June 2026
+> Last updated: 30 June 2026
 
 ---
 
-## Day 1 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
+## Day 1 — Practice: Workbook setup, tables, sorting, filtering, and named ranges
 
 **Phase:** Excel
 
 ### What I Did
 
-1. dfghjhgf
-2. dfghjhg
+1. dfghjkjhgfghjhg
+2. new line of code
 
 ### To Explore Further
 
@@ -22,79 +22,49 @@
 ---
 <!-- framework:solve -->
 
-## Learn: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-06-24 | **Method:** SOLVE
+## Practice: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-06-29 | **Method:** SOLVE
 
-> **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
+> **Scenario:** Sector: Retail
+> 
+> Scenario: A supermarket chain has exported this week's product sales across four city branches. Your job: build the same structured workbook you built for the bank — raw sheet untouched, a named Table in Tracker, sorted by Revenue, filtered to show only Returned and Pending rows.
 
 ### S — Split the problem
-- TEEStingtesting
+- sdfghjkjhgtrdfghjhgf
 
-- dfghjkfdghjjhgTEESThgjhg
-
-- TESTINGdfghjkuytfghnfghjnb
+- fghjkjh
 
 ### O — Observe the data
-OBSRVEEfdrtyuhgfv
+dfghjklk
 
 ### V — Verify your logic
-- VRIFY
+- fghjklkjhgf
 
-### E — Evolve the solution
-- LVOING
+- uytgfd
+
+- kjh
 
 
 ---
 <!-- framework:five-how -->
 
-## Learn: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-06-24 | **Method:** 5-HOW
+## Practice: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-06-26 | **Method:** 5-HOW
 
-> **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
-
-### Write it — code the solution
-- 5-howdfghjkjhgfvbnm,jhg
-
-- 6-howdfghjkjhg
-
-- 3-howhjtrfghj
-
-### Explain it — pseudocode
-nor
-
-### Compare it — analogy
-**Why it works:** fghjkuytfvb
-
-**Where it breaks down:** drtyujhgfgh
-
-### Use it — job story
-**My role:** dfrtyukjhgf
-
-**The problem:** rtyujhgf
-
-dtyuikjhgf
-
-### Try it — Scenario 1
-> Finance has an Orders spreadsheet and wants to know: "What's the total sales value for the Electronics category only?"
+> **Scenario:** Sector: Retail
 > 
-> Write a SUMIF formula that sums `order_value` where `product_category` equals "Electronics".
-
-- fghjk,mjhg
-
-- dfgujklhjgt
-
-- dfghjkytrf
+> Scenario: A supermarket chain has exported this week's product sales across four city branches. Your job: build the same structured workbook you built for the bank — raw sheet untouched, a named Table in Tracker, sorted by Revenue, filtered to show only Returned and Pending rows.
 
 ### Try it — Scenario 2
 > Your manager needs customer cities added to the orders sheet: "Can you pull in each customer's city from the Customers tab, matched by customer_id?"
 > 
 > Write an XLOOKUP (or VLOOKUP) formula that looks up customer_id in the Customers sheet and returns the city column.
 
-- gfhjkljhgfhjklkjh
+```sql
+2*3
+```
 
-- ghjklkjhgjkl
-
-- ghjkljhkl
+**Error:** `near "2": syntax error`
 
 ---
 
