@@ -1,35 +1,22 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 26 June 2026
+> Last updated: 30 June 2026
 
 ---
 
-## Day 1 — Practice: Workbook setup, tables, sorting, filtering, and named ranges
+## Day 1 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
 
 **Phase:** Excel
 
 ### What I Did
 
-1. dfghjkjhgfghjhg
+1. I learnt that rang is dfined as
+2. sum is ***
+3. Created an online workbook - https://1drv.ms/x/c/520c43da4f5e2bd5/IQBRFatjCyF1Qrptqo96b6N2AU4RQ8cnpzCvhVNiUn9nKXg?e=NzJqaR
 
 ### To Explore Further
 
 
-
-### My Practice Work
-
----
-<!-- framework:solve -->
-
-## Practice: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-06-26 | **Method:** SOLVE
-
-> **Scenario:** Sector: Retail
-> 
-> Scenario: A supermarket chain has exported this week's product sales across four city branches. Your job: build the same structured workbook you built for the bank — raw sheet untouched, a named Table in Tracker, sorted by Revenue, filtered to show only Returned and Pending rows.
-
-### S — Split the problem
-- sdfghjkjhgtrdfghjhgf
 
 ---
 
