@@ -4,16 +4,14 @@
 
 ---
 
-## Day 1 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
+## Day 1 — Practice: Workbook setup, tables, sorting, filtering, and named ranges
 
 **Phase:** Excel
 
 ### What I Did
 
-1. I learnt that rang is dfined as
-2. sum is ***
-3. Created an online workbook - https://1drv.ms/x/c/520c43da4f5e2bd5/IQBRFatjCyF1Qrptqo96b6N2AU4RQ8cnpzCvhVNiUn9nKXg?e=NzJqaR
-4. Update my journal to confirm github setup is okay
+1. Another point to test:
+2. `avg = 2*3`
 
 ### To Explore Further
 
