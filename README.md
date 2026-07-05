@@ -19,6 +19,7 @@
 
 1. Completed setup.
 2. I was able to create a new workspace with greate precision and understanding on the workflow and test.
+3. Neew testing test.
 
 ### To Explore Further
 
@@ -26,7 +27,6 @@
 
 ---
 <!-- qode-clarity:data-analyst-job-ready:lessons:end -->
-
 <!-- qode-clarity:data-analyst-job-ready:journal-link:start -->
 ## Qode Clarity Learning Journal
 
