@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,customer_name,region,product,category,quantity,unit_price,returned
+O-1001,2026/06/01,C-042, Amara Okafor ,north,Mouse,accessories,2,24.99,N
+O-1001,01-06-2026,C-042,AMARA OKAFOR,North,USB-C Hub,Accessories,1,39.99,no
+O-1002,2026-06-02,C-091,Ben Carter,South,Keyboard,Accessory,1,44.99,false
+O-1003,2026-06-03,C-077,Chen Li,east,Monitor,Hardware,1,189.99,Y
+O-1003,2026-06-03,C-077,Chen Li,east,Monitor,Hardware,1,189.99,Y
+O-1004,,C-105,Dina Patel,West,Desk Chair,Furniture,3,129.99,false
+O-1005,2026-06-05,C-118,Efe Mensah,North,Cloud Backup Plan,software,5,14.99,false
+O-1006,2026-06-06,C-126,Fatima Bello,South,Notebook Stand,Furniture,two,49.99,false
+O-1007,2026-06-07,C-130,Grace Hill,East,Analytics Starter Pack,Software,1,79.99,false
+O-1008,2026-06-08,C-144,Hugo Silva,West,Monitor,Hardware,2,,false
