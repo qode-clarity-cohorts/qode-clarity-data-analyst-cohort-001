@@ -1,0 +1,4 @@
+row_id,col_name,issue_type,rule_or_check,evidence,treatment,confidence
+O006657,email,Missing value,Looks like MAR or MCAR,No pattern for the missing,,Violation rate = 0.02
+O007688,ship_date,Missing value,Looks like MAR or MCAR,No pattern for the missing,,Violation rate = 0.029
+O005322,unit_price,Missing value,Looks like MAR or MCAR,,,Violation rate = 0.022
