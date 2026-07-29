@@ -1,0 +1,31 @@
+row_id	column_name	issue_type	rule_or_check	evidence	treatment	 confidence
+O004437	email	missingness	This does not break hard business rule	blank appears in the email column	Keep blank and flag up to investigate further	
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+MISSINGNESS 						
+ count blanks in email	ship_date	 region	unit_price	Total Grain		
+111 blank rows   	75 blank rows	No missingness	3 rows does not have unit price	2538		
+RATE of email missingness	Missingness Rate		unit price missingness Rate			
+0.044	0.030		0.0012			
+						
+						
+DUPLICATE CHECK						
