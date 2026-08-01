@@ -1,6 +1,7 @@
 row_id,col_name,issue_type,rule_or_check,evidence,treatment,confidence
 O006657,email,Missing value,Check for the missing email in the customer information table,order_id O006657 is one of the record with missing email,"Keep as it is, escalate to the relevant team",email blank rate = 71/2449 = 2.8%
-O001100,ship_date,Missing value,Check if the orders are ready for shipment,order_id O001100 is one of the record with missing ship date,Keep as null and flag it to be as valuse that would be completed soon,ship date missing rate = 73/2449 = 2.9%
+O001562,email,Missing value,Check for the missing email in the customer information table,order_id O006657 is one of the record with missing email,"Keep as it is, escalate to the relevant team",email blank rate = 71/2449 = 2.8%
+O001100,ship_date,Missing value,Check if the orders are ready for shipment,order_id O001562 is one of the record with missing ship date,Keep as null and flag it to be as valuse that would be completed soon,ship date missing rate = 73/2449 = 2.9%
 O0077267,unit_price,Missing value,This is not possible as an order must have a unit price.,order_id O0077267 is one of the record with missing unit price,Leave it as it is. Flag it and escalate to the relevant unit,unit_price rate = 54/2449 = 2.2%
 O007683,order_id,Exact Duplicate,All other columns has repeated values,Customer ID for Order O007683 is Amara Hassan,"Flag it, record the removed duplicates and note the nuber of rows before and after removing the duplicates",duplicate rate = 64/2449 = 2.6%
 O002786,quantity,outlier,821 and 75 are above upper boundary,Upper boundary is 18,"Flag it, record it and do not include it in the calculation",
