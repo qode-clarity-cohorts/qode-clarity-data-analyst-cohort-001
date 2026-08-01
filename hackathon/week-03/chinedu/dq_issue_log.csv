@@ -1,8 +1,15 @@
 West: Row count = 2494
-Blank email= 102
-Blank Ship_date= 58
-Blank Unit_price= 49
+Blank email= 102 . Calculation: 102/2494 x 100 = 0.040 x 100 =4.08%
+Blank Ship_date= 58: calc; 58/2494 = 0.023 x 100 = 2.3%
+Blank Unit_price= 49/2494 = 0.019 x 100 = 1.96%
 calculation of each column`s rate; missing/total row count
-email; 102/2494= 0.04
-ship_date; 58/2494= 0.02
-Unit_price; 49/2494= 0.01
+email; 102/2494= 0.04 x 100 =4%
+"Count region =COUNTBLANK(G:G) + enter : 0, Rate = 0%"
+Uplicate Order IDs; 58/2494=0.023x 100=2.3%
+"Judging missinggness by MCAR,MAR,MNAR."
+"Email : MCAR = It is randomly distributed, its not related to any conditions from other colums."
+"Ship_date i= MAR; because it is conditioned based on the Order_Status, if the goods is either shipped, delivered, cancelled,  or open. all returned are not inclusive."
+"Region is 0, and has no missing query."
+"Unit_Price = MAR, because of error, as it has not relationship with any condition. "
+"Duplicate, 58 duplicates, double-click on the ID column`s drop down point, "
+Average:99.997: 100
