@@ -1,0 +1,11 @@
+Control + A to highlight the whole table and control + T to convert to table,,
+"  click drop down on region, deselect all and select West for the assigned region",,
+  sorted the table for missing values,,
+sort the table for ship date missing,,
+,,
+West Region Row count 2494,,
+missing Email,102,4.08%
+Missing Ship Date ,58,2.30%
+Missing Unit Price,49,1.96%
+Missing Region,0,0%
+Dupicate Order IDs,58,2.30%
