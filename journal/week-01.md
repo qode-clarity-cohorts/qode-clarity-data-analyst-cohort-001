@@ -8,5 +8,4 @@
 
 _2026-09-03 · logged 2026-09-03 15:29 UTC_
 
-- **Clinic topic:** DQ Math 01 · Data Quality Issues Foundation
-- **What was taught:** testing
+- **Taught:** testing
