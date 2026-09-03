@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**14 days logged &middot; 1 weeks &middot; 1-day streak &middot; last activity 2026-07-30**
+**21 days logged &middot; 2 weeks &middot; 1-day streak &middot; last activity 2026-09-03**
 
 ## Latest Proof
 
@@ -12,6 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 2026-09-03 | Daily Concept Clinic | DQ Math 01 · Data Quality Issues Foundation | — |
 | 2026-07-18 | Daily Concept Clinic | DQ Math 01 · Data Quality Issues Foundation | [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-concept-clinic/Screenshot-4180-.png](https://github.com/qode-clarity-cohorts/qode-clarity-data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-concept-clinic/Screenshot-4180-.png) |
 | 2026-07-18 | Daily Concept Clinic | Daily Concept Clinic | — |
 | 2026-07-18 | Daily Concept Clinic | Daily Concept Clinic | [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-concept-clinic/Screenshot-4181-.png](https://github.com/qode-clarity-cohorts/qode-clarity-data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-02/daily-concept-clinic/Screenshot-4181-.png) |
@@ -64,7 +65,7 @@ The goal is not only to complete lessons, but to produce visible evidence of bus
 |-- journal/
 |   |-- index.md
 |   |-- week-01.md ...
-|   `-- earlier.md
+|   `-- pre-cohort-notes.md
 |-- assets/
 |   `-- activity.svg
 |-- notes/

@@ -1,0 +1,17 @@
+South Region
+
+The dataset contains Customer Order transactions
+ Total row count = 2538
+missing email count =111
+email missing Rate = 4%
+missing ship_date count =75
+missing ship_date Rate  = 3%
+
+Duplicate row 
+The grain Order_id has both exact and near duplicate rows
+
+Outlier/Accuracy
+Both the quantity and the unit_price have values outside the range of consideration
+
+Invalid Values
+Customer Age and Discount_pct has invalid values that will likely bias the result
